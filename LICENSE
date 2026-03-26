@@ -1,21 +1,33 @@
-MIT License
 
-Copyright (c) 2026 AoS-AdN
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 📚 Citation
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+If you use AoS in academic work, please cite:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+> Schreiner, J. (2026). *Algorithm of Sustainability: A Guide to a Fair and Stable Economy for the 21st Century.*
+
+(Full citation details available in [`/references/Bibliography.md`](references/Bibliography.md).)
+
+---
+
+## 🤝 Contributing
+
+Researchers are invited to contribute by:
+
+- Submitting theoretical extensions  
+- Providing simulation models  
+- Conducting empirical evaluations  
+- Proposing mathematical refinements  
+- Submitting peer‑review comments  
+
+Please use **pull requests** or open an **issue** for discussion.
+
+---
+
+## 📜 License
+
+The **AoS manuscript** and associated materials are licensed under the terms specified in the PDF.  
+The main document is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
+For details on the licensing of other repository contents (e.g., code, diagrams), please see the [`LICENSE`](LICENSE) file.
