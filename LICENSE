@@ -1,33 +1,14 @@
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
----
+Dieses Repository und alle seine Inhalte (einschließlich des AoS-Manuskripts) sind lizenziert unter der Creative Commons Attribution-ShareAlike 4.0 International Lizenz.
 
-## 📚 Citation
+Vollständiger Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/legalcode.de
+Kurzzusammenfassung: https://creativecommons.org/licenses/by-sa/4.0/
 
-If you use AoS in academic work, please cite:
+Sie dürfen:
+- Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten
+- Bearbeiten — das Material remixen, verändern und darauf aufbauen
 
-> Schreiner, J. (2026). *Algorithm of Sustainability: A Guide to a Fair and Stable Economy for the 21st Century.*
-
-(Full citation details available in [`/references/Bibliography.md`](references/Bibliography.md).)
-
----
-
-## 🤝 Contributing
-
-Researchers are invited to contribute by:
-
-- Submitting theoretical extensions  
-- Providing simulation models  
-- Conducting empirical evaluations  
-- Proposing mathematical refinements  
-- Submitting peer‑review comments  
-
-Please use **pull requests** or open an **issue** for discussion.
-
----
-
-## 📜 License
-
-The **AoS manuscript** and associated materials are licensed under the terms specified in the PDF.  
-The main document is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
-
-For details on the licensing of other repository contents (e.g., code, diagrams), please see the [`LICENSE`](LICENSE) file.
+Zu den folgenden Bedingungen:
+- Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen
+- Weitergabe unter gleichen Bedingungen — Wenn Sie das Material bearbeiten, müssen Ihre Beiträge unter derselben Lizenz weitergegeben werden
